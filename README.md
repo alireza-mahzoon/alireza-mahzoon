@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [decafe.life](https://github.com/alireza-mahzoon/decafe.life)
 - 🌱 I’m currently learning Spring-Boot, Postgres Database, REST APIs, Scrum, APIs and Software Documentation
-- 👯 I’m looking to collaborate on SaaS to deepen by Java and cloud expertise and contribute in an agile team
+- 👯 I’m looking to collaborate on SaaS to deepen my Java and cloud expertise and contribute in an agile team
 - 💬 Ask me about how backend impacts user experience much more than we usually think
 - 📫 You can reach me via:
     - [LinkedIn](https://www.linkedin.com/in/alireza-mahzoon/) 
